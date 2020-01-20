@@ -1,0 +1,10 @@
+
+spring:
+  mail:
+    host: smtp.126.com
+    port: 25
+    username: luchuan365@126.com
+    password: 
+
+server:
+  port: 9002
